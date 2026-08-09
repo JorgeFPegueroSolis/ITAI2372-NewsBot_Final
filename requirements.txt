@@ -1,0 +1,12 @@
+pandas
+spacy
+scikit-learn
+nltk
+matplotlib
+seaborn
+wordcloud
+plotly
+joblib
+sumy
+langdetect
+deep-translator
